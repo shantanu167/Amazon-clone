@@ -14,8 +14,9 @@ This project is a **front-end clone** of the Amazon homepage using **HTML** and 
 
 ## 📸 Preview
 
-![Homepage Preview](images/valentine_.jpg)  
-*Hero section preview image — replace with your own screenshot for GitHub.*
+![Homepage Preview](![{808B5F80-4C73-43BB-8CAE-E8DE758EFA32}](https://github.com/user-attachments/assets/d1102fce-66b7-4a4c-bbda-3d6b0cac775f)
+)  
+
 
 ---
 
